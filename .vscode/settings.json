@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "NEXTAUTH",
+    "superjson",
+    "tailwindcss",
+    "tanstack",
+    "trpc"
+  ],
+  "dotenv.enableAutocloaking": false
+}
